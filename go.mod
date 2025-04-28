@@ -1,4 +1,4 @@
-module custom-syft-cataloger
+module github.com/avodotiiets/custom-syft-cataloger
 
 go 1.24.1
 
